@@ -1,6 +1,6 @@
 
 // let str = "i ran there"
-// let str = "hello world"
+let str = "hello world"
 
 
 function LetterCapitalize(str) { 
